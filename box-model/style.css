@@ -1,0 +1,26 @@
+* {
+    outline: 1px blue solid;
+    margin: 0;
+    padding: 0;
+    
+}
+
+/**.div1 {
+    padding: 20px;
+    border: 20px red solid;
+    margin: 0 0 20px 0;
+    width: 500px;
+    height: 200px;
+    display:block;
+}**/
+
+span{
+    display: inline-block;
+    padding: 20px;
+    height: 100px;
+    width:200px;
+}
+
+.div2 {
+    margin: 10px 0 0 0;
+}
